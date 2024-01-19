@@ -1,7 +1,7 @@
 # JARVIS
 
 <p align="center">
-  <img src="media/ss.jpg" alt="Say hello to Jarvis" width="100%"/>
+  <img src="media/ss.JPG" alt="Say hello to Jarvis" width="100%"/>
 </p>
 
 Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in a web interface.
